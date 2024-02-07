@@ -1,5 +1,5 @@
 # Timetable-Management-System
-This project is a part of the Final Project submission for Software Tools Laboratory(PCCCS492)
+This project is a Independent Project submission for 3rd Semester Exams:
 Key Components:
 
 Tkinter:
